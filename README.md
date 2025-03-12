@@ -1,6 +1,6 @@
-bugs: rotated colliders are incorrect in hitbox mod<br />
+bugs: colliders with offset are incorrect in hitbox mod<br />
 
-# How to use
+# How to use (press ctrl m to hide mod menu)
 1. enable the mods you need to use<br />
 2. type the scene file name with .scene<br />
 3. if the map has multiple scenes then type the scene name you want, if the map has 1 scene then leave blank (find the scene names with assetstudiogui)<br />
